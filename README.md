@@ -1,5 +1,5 @@
 - 👋 Hi, This is Rizwan
-- 👀 I’m interested in video games developing and Computer Vision ...
+- 👀 I’m interested in Video Games development and Computer Vision ...
 - 👨‍🏫 Right now i'm working as an experience engineer for Singularity Limited. I make video games and interactive applications. 
 - 📫 Reach me: rizowan69@gmail.com
 
