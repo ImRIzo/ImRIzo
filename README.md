@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rezowa</h1>
+<h1 align="center">Hi 👋, I'm Rezowan </h1>
 <h3 align="center">A passionate Game Developer and AI Enthusiast from Bangladesh. I love Computer Vision, every pixel matters. ❤️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imrizo&label=Profile%20views&color=0e75b6&style=flat" alt="imrizo" /> </p>
