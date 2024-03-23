@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imrizo&label=Profile%20views&color=0e75b6&style=flat" alt="imrizo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imrizo" alt="imrizo" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/imriz0" target="blank"><img src="https://img.shields.io/twitter/follow/imriz0?logo=twitter&style=for-the-badge" alt="imriz0" /></a> </p>
 
 - 🔭 I’m currently working on [Unstable Diffusion](https://github.com/ImRIzo/Unstable-Diffusion)
