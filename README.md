@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rezowan </h1>
 <h3 align="center">A passionate Game Developer and AI Enthusiast from Bangladesh. I love Computer Vision, every pixel matters. ❤️</h3>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imrizo&show_icons=true&locale=en" alt="imrizo" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imrizo&label=Profile%20views&color=0e75b6&style=flat" alt="imrizo" /> </p>
 
 <p align="left"> <a href="https://twitter.com/imriz0" target="blank"><img src="https://img.shields.io/twitter/follow/imriz0?logo=twitter&style=for-the-badge" alt="imriz0" /></a> </p>
@@ -31,7 +31,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imrizo&show_icons=true&locale=en&layout=compact" alt="imrizo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imrizo&show_icons=true&locale=en" alt="imrizo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imrizo&" alt="imrizo" /></p>
 
