@@ -17,9 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://imrizo.github.io/](https://imrizo.github.io/)
 
-- 📫 How to reach me **rsarkar.pro@gmail.com**
-
-- 📄 Know about my experiences [https://imrizo.github.io/](https://imrizo.github.io/)
+- 📫 How to reach me **rizowan69@gmail.com**
 
 - ⚡ Fun fact **I'm an introvert and I hate argument.**
 
