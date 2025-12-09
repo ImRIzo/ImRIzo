@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rezowan </h1>
-<h3 align="center">A passionate Game Developer and AI Enthusiast from Bangladesh. I love Computer Vision, every pixel matters. ❤️</h3>
+<h3 align="center">A passionate Computer Vision and AI Enthusiast from Bangladesh. I love Computer Vision, every pixel matters. ❤️</h3>
 
-<div align="center">
+<!-- <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imrizo&show_icons=true&locale=en" alt="imrizo" /></p>
-</div>
+</div> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imrizo&label=Profile%20views&color=0e75b6&style=flat" alt="imrizo" /> </p>
 
