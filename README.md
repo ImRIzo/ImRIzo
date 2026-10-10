@@ -1,6 +1,6 @@
 # Hi, I'm Rezowan 👋
 
-### Computer Vision · Edge AI · Robotics
+### Computer Vision · Edge AI · Digit Twin · Games
 
 I'm a developer from Bangladesh interested in building intelligent systems that connect **AI, computer vision, and real-world hardware**. I enjoy exploring how software can interact with the physical world, from visual perception to embedded systems and robotics.
 
